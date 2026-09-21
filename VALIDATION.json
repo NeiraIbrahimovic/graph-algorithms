@@ -1,0 +1,11 @@
+{
+  "project": "graph-algorithms",
+  "compile_exit": 0,
+  "test_exit": 0,
+  "passed": [
+    "4"
+  ],
+  "failed": [
+    "0"
+  ]
+}
