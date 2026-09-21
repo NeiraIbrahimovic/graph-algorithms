@@ -1,0 +1,34 @@
+[
+  {
+    "path": "src/portfolio/algorithms/DirectedGraph.java",
+    "recovered_source_sha256": "da52135455ce7933c49da201e8dfd6b7ac829264c0412e1e26a01c535ec57689"
+  },
+  {
+    "path": "src/portfolio/algorithms/Graph.java",
+    "recovered_source_sha256": "2dfd3554e0b5c2741b329085b72be7e220755ef4a9eb644e157653d2001e4e84"
+  },
+  {
+    "path": "src/portfolio/algorithms/GraphBuilder.java",
+    "recovered_source_sha256": "6cede3dd27406c3eda9ef64d5cea548a4c43b8853e21af45c5bb69bbcf5bd701"
+  },
+  {
+    "path": "src/portfolio/algorithms/GraphUtils.java",
+    "recovered_source_sha256": "769e3b14203451f414fd0b4317ebe483c33495b061316494159faa13b2c3f40a"
+  },
+  {
+    "path": "src/portfolio/algorithms/GraphUtilsTest.java",
+    "recovered_source_sha256": "5568b28707b7ecb4c0a2750b88088a646c8b105203e84e4509a22444c52de307"
+  },
+  {
+    "path": "src/portfolio/algorithms/HamiltonianReport.java",
+    "recovered_source_sha256": "fae9124b14327d838fc624a8630756857ef1bcdde6a041eb27bf1be1921e820c"
+  },
+  {
+    "path": "src/portfolio/algorithms/student_graph_test.txt",
+    "recovered_source_sha256": "6c161647f9f055e3e2ae76ec18458ad869d363c446d8beb483815851cbe30b00"
+  },
+  {
+    "path": "src/portfolio/algorithms/UndirectedGraph.java",
+    "recovered_source_sha256": "53a33839053ce586a56b6c4168a1675ea9e709b3f887a580984d088995d2781e"
+  }
+]
