@@ -26,9 +26,3 @@ Run `mvn test` from the repository root with Maven and a JDK (the recovery run u
 ## Validation status
 
 The repackaged source compiled with JDK 24. The local JUnit run passed **4 tests**, with 0 failures. Maven configuration is provided for convenience; the reported run used javac and JUnit Console directly. Passing tests do not establish exhaustive correctness or production readiness.
-
-## Provenance and publication
-
-Recovered from Neira Ibrahimovic's local workspace. Author names and starter-code credits are retained in the source. Repository ownership does not establish sole authorship of every file. Documentation and explicitly labeled maintenance changes were prepared with AI assistance.
-
-Publication approved by the owner. This repository is an independent copy and has no upstream synchronization. No new license is asserted. Original files remain preserved locally. School contact details and institutional package identifiers were omitted from this portfolio copy; contributor attribution is retained.
